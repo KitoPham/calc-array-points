@@ -105,13 +105,13 @@
                   symbolName = "CalcArrayPointsTests.subtract (p1 : Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Swift.Int&gt;&gt;, p2 : Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Swift.Int&gt;&gt;) -&gt; Swift.Dictionary&lt;Swift.String, Swift.Int&gt;"
                   moduleName = "CalcArrayPointsTests"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/iguest/Desktop/CalcArrayPoints/CalcArrayPoints/main.swift"
-                  timestampString = "513131669.963295"
+                  urlString = "file:///Users/iguest/Desktop/calc-array-points/CalcArrayPoints/main.swift"
+                  timestampString = "513195639.548655"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "146"
                   endingLineNumber = "146"
-                  offsetFromSymbolStart = "572">
+                  offsetFromSymbolStart = "401">
                </Location>
                <Location
                   shouldBeEnabled = "Yes"
@@ -120,15 +120,31 @@
                   symbolName = "CalcArrayPointsTests.subtract (p1 : Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Swift.Int&gt;&gt;, p2 : Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Swift.Int&gt;&gt;) -&gt; Swift.Dictionary&lt;Swift.String, Swift.Int&gt;"
                   moduleName = "CalcArrayPointsTests"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/iguest/Desktop/CalcArrayPoints/CalcArrayPoints/main.swift"
-                  timestampString = "513131669.964721"
+                  urlString = "file:///Users/iguest/Desktop/calc-array-points/CalcArrayPoints/main.swift"
+                  timestampString = "513195639.549873"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "146"
                   endingLineNumber = "146"
-                  offsetFromSymbolStart = "3840">
+                  offsetFromSymbolStart = "2543">
                </Location>
             </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CalcArrayPointsTests/CalcArrayPointsUnitTests.swift"
+            timestampString = "513195618.426647"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "119"
+            endingLineNumber = "119"
+            landmarkName = "testPoints()"
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
    </Breakpoints>
